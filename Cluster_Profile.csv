@@ -1,0 +1,5 @@
+Cluster_Label,Total_Revenue_USD,Avg_Revenue_USD,Health_Score,Feature_Adoption_Pct,API_Calls_Monthly,Support_Tickets,Payment_Delay_Days,NPS_Score,CSAT_Score,Renewal_Probability,Lifetime_Revenue_USD
+0,179854.32,15418.33,84.15,73.84,50483.62,3.02,1.38,52.81,4.35,0.92,390365.23
+1,11602.5,1168.17,34.85,31.01,5101.21,11.83,17.74,-8.6,3.04,0.45,12868.71
+2,31515.51,2847.81,65.69,55.24,21666.5,5.38,5.47,28.24,3.9,0.73,29365.36
+3,20116.09,1785.39,84.14,74.74,50237.55,3.03,1.54,53.08,4.34,0.93,63452.11
